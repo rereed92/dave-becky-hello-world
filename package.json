@@ -1,0 +1,20 @@
+{
+  "name": "daveandbeckyhelloworld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts:": {
+    "build": "gulp build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-minify": "^0.0.15",
+    "gulp-uglify": "^2.1.2",
+    "nodemon": "^1.11.0"
+  }
+}

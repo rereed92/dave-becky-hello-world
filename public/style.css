@@ -1,0 +1,30 @@
+body
+{
+    font-size: 1em;
+}
+
+.intro
+{
+    text-align: center;
+}
+
+.intro__heading
+{
+    color: blue;
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+.intro__text
+{
+    text-align: center;
+    font-size: 1.5em;
+    color: purple;
+}
+
+.intro__logo
+{
+    max-width: 100%;
+    margin: 20px auto 40px;
+    display: inline-block;
+}
